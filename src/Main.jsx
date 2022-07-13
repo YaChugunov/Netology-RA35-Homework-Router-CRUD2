@@ -65,8 +65,8 @@ export default function Main() {
   return (
     <div onLoad={loadItems}>
       <div className="notes-header">
-        <h1>Нетология RA-38 / React Router / Homework - CRUD</h1>
-        <h3>Homework - CRUD</h3>
+        <h1>Нетология RA-38 / Homework</h1>
+        <h3>React Router - CRUD</h3>
         <button type="button" onClick={loadActualItems} className="btn-update">
           Обновить
         </button>
